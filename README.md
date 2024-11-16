@@ -4,8 +4,8 @@ Testing the different JS libraries and frameworks under a .NET environment.
 
 For this project we are going to use:
 
-* **backend**: ASP.NET Core Web API
-* **frontend**: React
+* **BACKEND**: ASP.NET Core Web API
+* **FRONTEND**: React.js
 
 ## Installation
 
@@ -18,7 +18,7 @@ cd js-play
 
 Run the backend and the frontend in different terminals:
 
-* **backend**:
+* **BACKEND**:
 
 ```powershell
 cd backend
@@ -27,7 +27,7 @@ dotnet run
 
 Try it: <http://127.0.0.1:5210/>
 
-* **frontend**:
+* **FRONTEND**:
 
 ```powershell
 cd ../frontend
